@@ -29,8 +29,7 @@
 	background-color: white;
 }
 .navstyles {
-	text-align: center;
-	!important;
+	text-align: center !important;;
 	min-height: 365px;
 	width: 100%;
 	line-height: 2.8;
