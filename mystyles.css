@@ -137,6 +137,7 @@ header {
 	margin: 0;
 }
 .speakerslist__title {
+	display: block;
 	width: 100%;
 	text-align: left;
 	padding: 8px;
